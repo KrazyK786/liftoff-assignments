@@ -7,12 +7,33 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is a simple 'breakout' clone that adds on user authentication and a dashboard from which users can create
+ a profile, view their game scores, and launch the game.  Future features will include creating friends, commenting
+  on scores, and more available games.
+  
+  The simplicity of the application will provide opportunities to engage young and old alike, demonstrating some of
+   the capabilities of programming, while
+   promoting
+   interest in
+   technology as a whole
 ### Features
-Include Features here
+User login: Users will be able to create password protected accounts
+
+User dashboard: Users will be able to access a dashboard with their profile, game scores, and the ability to launch
+ games
+ 
+BrickSmash game: Users will be able to play and enjoy a breakout clone
 ### Technologies
-Include Technologies here
+<ul>
+    <li>Node.js</li>
+    <li>Express.js</li>
+    <li>JavaScript</li>
+    <li>Bootstrap</li>
+    <li>MongoDB</li>
+    <li>Mongoose</li>
+</ul>
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to better acquaint myself with Express and Mongoose, taking what I learned about MVC in the Java course
+ and applying to what I previously had encountered with using Node. 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/E6anX8cg/liftoff-project
