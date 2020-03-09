@@ -8,12 +8,18 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+ * [inVision Wireframe](https://kris272354.invisionapp.com/freehand/BrickSmash-Wireframe-sSBkRTw5V?v=caaDkg2dAZwyh%2B2Swh72%2BA%3D%3D&linkshare=urlcopied)
+ 
+ * ![Login](images/loginWireFrame.png) 
+
+ * ![Dashboard](images/dashboardWireFrame.png)
+ 
+ * ![Game](images/bricksmashWireFrame.png)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/E6anX8cg/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/KrazyK786/BrickSmash
